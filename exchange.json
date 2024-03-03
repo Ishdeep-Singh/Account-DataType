@@ -1,0 +1,10 @@
+{
+  "main": "account-datatype.raml",
+  "name": "Account DataType",
+  "classifier": "raml-fragment",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "account-datatype",
+  "version": "1.0.0"
+}
